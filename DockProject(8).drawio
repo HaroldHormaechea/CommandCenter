@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T10:19:52.833Z" agent="5.0 (Windows)" etag="LEaSFoBB-AnNTOXJQeK1" version="15.5.9" type="github" pages="4"><diagram id="B45VEeB7_PNRaiaeE9ng" name="UI / Funcional">5VhRb5swEP41PLYikJL0sSFptmmVKmVVpb052AGrhqPGCWG/fudgCATapZWyppsiEfz5fL77PvswWK4fb+eSpNEdUCYsx6Zby51ajuPYnoN/GilKZHQ9KIFQclpCDWDBfzED2gZdc8qylqECEIqnbTCAJGGBamFESsjbZisQ7VlTErIOsAiI6KKPnKqoRMfOaI9/YTyMqpkH3nXZE5PK2GSSRYRC3oDcmeX6EkCVd/HWZ0KTV/FSjrt9obcOTLJEHTMg+pkX3vghGz5PFoIGkC83swvjZUPE2iQ8ZRseMBOyKioespzHgiTYmnQnrrwwqdi2AZlA5gxipmSBJqZ3bDgpKtZMO99TPPQMFjXodUYGJEbWsHa9zxxvTPJvIcLuMDH/+sNyPIFTT5YS70K1S94gFXDLVBBZmnuPxCkC5RWROVN4XUqSaIOXHGG0yz12wHqkYsxiOsA+TS7HdXkjeJggFnNKRb8cryp9tEZuW6NhV6JatqZEVydTqLtW/Uii8yNE+sYlucCxdzq/R5BPn1EPd3hmgjjvF+SO6c3x6TVw7A8XwX2/CHPwp/+ACAPnw0UYdkToPkCfdg8Kd2ojNbBWgifMrw8tGlxBonwQIHcDXPzd6hgmoSSUs31fArvH8IoL0WeeKQlP7MCYkixi1ExUKfadLJm4h4wrDlq5JSgFcY+kCnYPNtMKMBaGvieNRaBjN4c3LAumbZLXU5IsLRNd8a2OY5IC115mG3SWGSd4Qkr1gHgb6sPkJcmz4WXIiDzFYqp2cE8ZdXvWjnuyteN11s6iyBSLj9jAPqTFZ9zA7ZPFGRTR0fs1uCdoePaUD8Znx/m4p2aWLFK+qUh88G3k6wbtJqCwlGWaUh6nQt/VnDcGdFhHglS7VvUWyGY1NVCn3r2oWh5xxRYpCfScOdYuxCSsE1qX3K6ub5bQs//80lS/bP6d0nV9pITOoYTPaI8B6Xcj/Bc8U0TDVKOrdRLw0u6VyvZ/Sn51Osmxuf8WsetrfNFxZ78B</diagram><diagram id="qgYE8NDGjpLolSQGo4uT" name="Architecture">3Vhdb6M6EP01eQwCkw/ymKTl7sOuVKkr3cfIAQfcGoyMkyb99XcMdsCBlGa3UaVLpSYcj8dm5hzPkJG/zo7/CFykv3hM2Ai58XHkP4wQQu4MwYdCTjUyX3g1kAga11ALeKbvRIOuRvc0JqVlKDlnkhY2GPE8J5G0MCwEf7PNdpzZqxY4IR3gOcKsi/5LY5nWaIDmDf6D0CQ1K3uzRT2SYWOsn6RMcczfWpD/OPLXgnNZf8uOa8JU8ExcTu/57+cweFiOyQt5X4j9y0s6rp2Ft0w5P4Igufxa17Pa9QGzvY7XmmcZzuNSP7M8mUCSGOKqb7mQKU94jtljg64E3+cxUcu5cNfY/OS8ANAD8IVIedIkwXvJAUplxvRoKbGQS5V0AHKeE4OFlDHttt6X2sxFfgeCo+1KvhcR+cBO0x1WTchH/vwzA0A6hGdEihPM07pxHdfXDDvZehCEYUkP9u6xJnlydqR9QzDwqWVQcJrLsrX0kwKadScz1151dkGK2+zhS72Di9lmO3y3KyFK9oxWPBqoIuMNxJx3iPl4IPrR/3e0vEqjcQ+P0J/wqJP46dxOPJoFtotaKHrWBwzy3QFHtZI6jm5l9vTKOtf2NWD/fcyedJjd4bTFPcFfz5WrQkwZUrSLcZmeqQ0jhfKQHRNVyx3Ky7mT0TJytrAWVF3lY7UD0q4546JaC9I3X4bheSUzomm+3UvJ89/kWHHYMkL1fFRdyi/PZcuvhWtpBXB7IEJSKM8/8ZawJ15SSXkOY1sOK2UtgyWjiRqQSqUrrO8ikBMRaievREappT41kxy/Un+TCxJ5gb5/a1qJua6haauLMOLq06PFp1vJ4/nD7EngwCuuRkT3WXhrzN0vipQdqEk3UMjUmnakvOm9QoWGI/WHXGzL87oY+4RryRO6LMFp7BQpaA11FAgailz1pzxTATmrNwcHc6Xjv+D8ld7l+3K1GM6ViR7Nqoa/nYT+LA0ml6mBFY5ek6pDaMV9V11gUi22LIv6xURlApubHT2qXK/0fh5SKdUbzVIFAoVRnPsOBa3tKPQewolgRRTGWGL4UDhUupBBH1KOt0K126qfDNFEo5sKrP+Xm8puo+ky9lDgFHny9enXbsz7nVayj7onXtBz4gV3oob3iXr5LSfeZQel8hJ0YuXNkeMvWldP7JQNVJrm8u8Uy08UD92GwffpajR96GN8S3ndqnz1PDS6NXqhWaLITrfwHzNGSbyRhJGSKmWAXIo9eFSkB1hkFPp1NfBERKl6983aWLxRmW6eiYDEO+Uh+buDcTJ4MFa5upLCeynAvaljHDz3Okn7xEHYf8TaNa63hLlu4Ibu7W1rdUY60IJLmiflXbJq3Fz0eDPP8dqCXXQbmZ7a6M9uzj7cNj8e1W8XzU9w/uN/</diagram><diagram id="z4otOIRwb1HIQQQ8uCH9" name="Mobile client">7VbbdtowEPwaHunxJYHwWCAlbU9STslJnoW92AqS5coytvv1XV18Izlp6HNfQB6Nd1fjGcMkXPF6I0me3osY2CTw4noSridBEHizAL800lhkvvAtkEgaW2gA7OhvcKDn0JLGUIyISgimaD4GI5FlEKkRRqQU1Zh2EGzcNScJvAJ2EWGv0Wcaq9SiN8G8x++AJmnb2Z8t7A4nLdmdpEhJLKoBFN5OwpUUQtkVr1fAtHitLs30+8PjU3PM6j3fooKf76ofU1vsyyW3dEeQkKl/Lv1ys33mD5tN+TX59nKds+Pi4LlbvBNhpdNrEswYNlmm2HWW6NW92FNUEx8Ro3oAR9jLltAi2Lu/qwXzFnhMdQ1+XsyrqBlzr0FlOCTPGY2IoiIzGFG9PwrjH/yQwMVJs9FdRyVyjROZgGaszH4E9ASFrUqlrnsilJG9bS84J1nckbMYpONyLZruTLQytCgJY40dCwijWaKHJo29E2toa4Ap5UENUenmlvCrhEIVnwby5L06xlGqaW2qoDaqK84Q8HFZKCmOsBJMSEQykSFzeUCxzqAiJ5EeKlxf91ePKEi4nqJPw2WVUgU7xHWrClOOGEonD8y4OaVxDBliUpSognaL102INJzsLEl/saHfZQNfKiA4KKnlc1WunOWa8WXVZ3PeBi4d5DLwHEjc+yDpKveex4Wz/QUR8D8SgactUn7iE6XoOzx+cWEKBDtHGO2CIVr7O286fxv/jqxqdwzVOg2f1sCF1sUDw1MMTTF0c0F5blqYl/d7R+jH++jAGOjoiN/G/CRz7dtdN6+bwx3p3X4IDlX7nxebg7cCE74RGD+4PDB42f+cmb3Bn4Lw9g8=</diagram><diagram id="sXvwM8xP-prR98uwChcA" name="Desktop target">7VbLUtswFP2aLGESmyawbBJKYcjANGkzsFNsxVaRLSPJefTre3Ul+ZUMkKHLbhLr6Pq+dHSue+Ek291IUqQzEVPeC/rxrhdOe0EQ9IcB/Blkb5HR1cACiWSxhRrAnP2hDuw7tGQxVS1DLQTXrGiDkchzGukWRqQU27bZWvB21IIk9ACYR4QfoksW69Sil8Goxr9TlqQ+8mB4ZXcy4o1dJSolsdg2oPC6F06kENo+ZbsJ5aZ5vi+/1z+e09HlxePTS5CS2+fdcJadWWffTnmlKkHSXP9b1+5wN4SXrl+9YMghyDiFqMPEPE2petGiMAdHZEK1t1hJb+ERCF6/5sHCA4uUGh4deOtvGSa6MtsajUhRcBYRzURu9lMWpfhqxKEHyhjkMQJrlts1eiCRecOtxZbGSDbvmu5oVGoEV/sqVCZWjJuHiDNor8INohuMdD6YPoffRcqMSUpU5QEoCcFYnpi48YbkGjgFrP3aaEvR7UrJuwhnHhlTrSk0t18qAskxbbJtBKxbaHM2DyTHrDbYPazY+fh56wtIoWm2UpFljQYy2+Yq1zqRw9SWtAqmCeNCVkk5p8pHs2h1xgUnei1k1gsm5ijOE9PMCFJKjFkK98rmDX2McYFtVpTDCeCRMRNzibtmZ2N+7lle7vxiRqKH+ellsKyQAtumgB7yoNki5/sWoRqFYk6kWabaK02zo5wWlqnAqjVLSom+kN5M26bkQneNFTqtwhRCw3EzyGWPTVPaUrfDYevO35qtKHnsK0C6IrVyYBGzWUiagWPMLa4vCpDi/M2rfthgAJu8RtHUe6/Emu5QWHTGARjAo9JSvNCJMDwKpzkUDeAaOteBVEEic7/C6Zd6tYAbEE7PQIrDMdSq6RxwE2oLgwwwOFS55ijYKYtjmgMmhanbCGK/yhDMILPOsHhHaQeV/MPcpCKjWpoTcV4u3MDYt5fbevyM/ExJG6OnMiRu5CWV51rW4cEp+3GVP7vfvuq7sVo9LG9u78joSV4zNxjeVvnZr0cw+UFfS2BFZpXwJJ0XbyjaohJhskKiokRY+T6iHR25/tCVPh7CCggODNOkCC8c7khawCix6tlSsE/GQ111U2wDEul2a81ludFBP9saWnlwiwEHwibmEq/g5OCzCfjzmexcS52a1ClhJhKOnqp3wn5cCMR/IegKwVElCI8owSA4XQlgWX+K4l7jgz68/gs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-30T10:22:21.292Z" agent="5.0 (Windows)" etag="dZ9pPcq-gSHz3N2mDc0c" version="15.5.9" type="github" pages="4">
+  <diagram id="B45VEeB7_PNRaiaeE9ng" name="UI / Funcional">
+    <mxGraphModel dx="2062" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hZwy68Us4qBSldcowbvE-1" value="Device" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="80" y="110" width="460" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-10" value="GIT&lt;br&gt;&lt;b&gt;Fetch &amp;amp; Get branch&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=middle;" parent="hZwy68Us4qBSldcowbvE-1" vertex="1">
+          <mxGeometry x="30" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-11" value="Chrome&lt;br&gt;&lt;b&gt;Jira- My Work&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=middle;" parent="hZwy68Us4qBSldcowbvE-1" vertex="1">
+          <mxGeometry x="334" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-12" value="Chrome&lt;br&gt;&lt;b&gt;Meet&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=middle;" parent="hZwy68Us4qBSldcowbvE-1" vertex="1">
+          <mxGeometry x="334" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-13" value="Chrome&lt;br&gt;&lt;b&gt;GoCD&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=middle;" parent="hZwy68Us4qBSldcowbvE-1" vertex="1">
+          <mxGeometry x="334" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" parent="hZwy68Us4qBSldcowbvE-1" vertex="1">
+          <mxGeometry y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-16" value="System&lt;br&gt;&lt;b&gt;Copy&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=middle;" parent="hZwy68Us4qBSldcowbvE-1" vertex="1">
+          <mxGeometry x="30" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-17" value="System&lt;br&gt;&lt;b&gt;Paste&lt;/b&gt;" style="html=1;verticalAlign=middle;" parent="hZwy68Us4qBSldcowbvE-1" vertex="1">
+          <mxGeometry x="180" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-18" value="&lt;div&gt;UC01: Botones simples&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZwy68Us4qBSldcowbvE-19" value="&lt;div&gt;UC02: Botones que abran listas de funciones&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="150" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qgYE8NDGjpLolSQGo4uT" name="Architecture">
+    <mxGraphModel dx="2062" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="yznTSF8DA-ejez9rujjh-0" />
+        <mxCell id="yznTSF8DA-ejez9rujjh-1" parent="yznTSF8DA-ejez9rujjh-0" />
+        <mxCell id="yznTSF8DA-ejez9rujjh-6" value="Commands" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="yznTSF8DA-ejez9rujjh-1" source="yznTSF8DA-ejez9rujjh-2" target="yznTSF8DA-ejez9rujjh-3" edge="1">
+          <mxGeometry x="0.037" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="160" />
+              <mxPoint x="460" y="160" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-7" value="Events" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="yznTSF8DA-ejez9rujjh-1" edge="1">
+          <mxGeometry x="-0.037" y="12" relative="1" as="geometry">
+            <mxPoint x="570" y="268" as="sourcePoint" />
+            <mxPoint x="300" y="268" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="268" />
+              <mxPoint x="500" y="268" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-4" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.bluetooth;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="yznTSF8DA-ejez9rujjh-1" vertex="1">
+          <mxGeometry x="400" y="180" width="76" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-13" value="" style="group" parent="yznTSF8DA-ejez9rujjh-1" vertex="1" connectable="0">
+          <mxGeometry x="40" y="140" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;direction=south;" parent="yznTSF8DA-ejez9rujjh-13" vertex="1">
+          <mxGeometry width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_android-128.png" parent="yznTSF8DA-ejez9rujjh-13" vertex="1">
+          <mxGeometry x="91" y="32" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-14" value="" style="group" parent="yznTSF8DA-ejez9rujjh-1" vertex="1" connectable="0">
+          <mxGeometry x="570" y="128.8" width="172.39999999999998" height="172.40000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-3" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="yznTSF8DA-ejez9rujjh-14" vertex="1">
+          <mxGeometry width="172.4" height="172.4" as="geometry" />
+        </mxCell>
+        <mxCell id="yznTSF8DA-ejez9rujjh-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" parent="yznTSF8DA-ejez9rujjh-14" vertex="1">
+          <mxGeometry x="100" y="61.19999999999999" width="20" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="z4otOIRwb1HIQQQ8uCH9" name="Mobile client">
+    <mxGraphModel dx="2062" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="y-KNTVyknxbmP20dAHwO-0" />
+        <mxCell id="y-KNTVyknxbmP20dAHwO-1" parent="y-KNTVyknxbmP20dAHwO-0" />
+        <mxCell id="j8PWmNGGuIgJj5plk9f0-0" value="&lt;h1&gt;Mobile client&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The mobile client will be the application that connects to remove desktop targets, receives their available commands, renders them in a visually appealing way, and sends execution requests.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="y-KNTVyknxbmP20dAHwO-1" vertex="1">
+          <mxGeometry x="40" y="40" width="720" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="j8PWmNGGuIgJj5plk9f0-1" value="&lt;h1&gt;MVP Requirements&lt;br&gt;&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;To be able to receive commands to be executed, and render their icons in a simple grid&lt;br&gt;&lt;/li&gt;&lt;li&gt;To be able to click on an icon to execute a command&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="y-KNTVyknxbmP20dAHwO-1" vertex="1">
+          <mxGeometry x="40" y="240" width="730" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8GE271Ah9wVU1JMssRSu-0" value="&lt;h1&gt;Technologies&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Target platform: Android (minimum API TBD)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Bluetooth connectivity (library TBD)&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="y-KNTVyknxbmP20dAHwO-1">
+          <mxGeometry x="40" y="400" width="730" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sXvwM8xP-prR98uwChcA" name="Desktop target">
+    <mxGraphModel dx="2062" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jfRZh784PYk2haIZx6Mm-0" />
+        <mxCell id="jfRZh784PYk2haIZx6Mm-1" parent="jfRZh784PYk2haIZx6Mm-0" />
+        <mxCell id="jfRZh784PYk2haIZx6Mm-2" value="&lt;h1&gt;Desktop target&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The desktop target will be the application which declares and defines all actions allowed to be executed by the mobile clients that connect to it. This has the following advantages:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Better usability as the desktop client can have a better UI to handle command definition&lt;/li&gt;&lt;li&gt;We can tailor the commands to the target platform, e.g. change how a window is selected in Windows vs Linux vs MacOS&lt;/li&gt;&lt;li&gt;We can improve security as the only allowed commands in a target system will be the ones configured on it, not the ones set in a potentially hostile mobile client, which would allow for undesired remote code execution.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="jfRZh784PYk2haIZx6Mm-1" vertex="1">
+          <mxGeometry x="40" y="40" width="720" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-LwqtJBsbOWGIJa7YrEi-0" value="&lt;h1&gt;MVP Requirements&lt;br&gt;&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;To be able to define commands to be executed&lt;/li&gt;&lt;li&gt;To be able to select an icon to represent the command&lt;/li&gt;&lt;li&gt;To be able to send the available command information to the mobile client through bluetooth&lt;/li&gt;&lt;li&gt;To be able to execute a command on request through bluetooth&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="jfRZh784PYk2haIZx6Mm-1" vertex="1">
+          <mxGeometry x="40" y="240" width="730" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1jjtRXOIM2QPTbyN60Ex-0" value="&lt;h1&gt;Technologies&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Java 11&lt;/li&gt;&lt;li&gt;Bluetooth connectivity (library TBD)&lt;/li&gt;&lt;li&gt;UI technology TBD (console-first as PoC)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jfRZh784PYk2haIZx6Mm-1">
+          <mxGeometry x="40" y="400" width="730" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
