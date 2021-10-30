@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T10:22:21.292Z" agent="5.0 (Windows)" etag="dZ9pPcq-gSHz3N2mDc0c" version="15.5.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-30T14:00:25.230Z" agent="5.0 (Windows)" etag="A0OnTlGruMNICVpfAcCi" version="15.6.2" type="github" pages="4">
   <diagram id="B45VEeB7_PNRaiaeE9ng" name="UI / Funcional">
     <mxGraphModel dx="2062" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="-LwqtJBsbOWGIJa7YrEi-0" value="&lt;h1&gt;MVP Requirements&lt;br&gt;&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;To be able to define commands to be executed&lt;/li&gt;&lt;li&gt;To be able to select an icon to represent the command&lt;/li&gt;&lt;li&gt;To be able to send the available command information to the mobile client through bluetooth&lt;/li&gt;&lt;li&gt;To be able to execute a command on request through bluetooth&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="jfRZh784PYk2haIZx6Mm-1" vertex="1">
           <mxGeometry x="40" y="240" width="730" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1jjtRXOIM2QPTbyN60Ex-0" value="&lt;h1&gt;Technologies&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Java 11&lt;/li&gt;&lt;li&gt;Bluetooth connectivity (library TBD)&lt;/li&gt;&lt;li&gt;UI technology TBD (console-first as PoC)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jfRZh784PYk2haIZx6Mm-1">
+        <mxCell id="1jjtRXOIM2QPTbyN60Ex-0" value="&lt;h1&gt;Technologies&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Java 11&lt;/li&gt;&lt;li&gt;C system calls&lt;br&gt;&lt;/li&gt;&lt;li&gt;Bluetooth connectivity (library TBD)&lt;/li&gt;&lt;li&gt;UI technology TBD (console-first as PoC)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="jfRZh784PYk2haIZx6Mm-1" vertex="1">
           <mxGeometry x="40" y="400" width="730" height="120" as="geometry" />
         </mxCell>
       </root>
